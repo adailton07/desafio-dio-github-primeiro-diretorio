@@ -1,0 +1,16 @@
+#Comandos Básicos Git
+
+cd                   = navegar até pasta  / entrar 
+cd ..                = voltar pasta anterior
+dir                  = listar diretórios / pastas
+mkdir                = criar pastas
+echo hello>hello.txt = criar arquivo especifico ( substituir hello pelo nome desejado ) 
+del                  = deletar todo conteúdo da pasta 
+rm                   = deletar arquivo específico da pasta
+rmdir /S /Q          = deletar pasta inteira com conteúdo
+
+cls                  = limpar tela
+Ctrl+L               = Limpar tela
+TAB                  = auto completar 
+ls                   = listar diretório 
+ls -a mostrar        = listar arquivos ocultos

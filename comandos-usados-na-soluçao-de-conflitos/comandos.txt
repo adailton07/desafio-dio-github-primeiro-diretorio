@@ -1,0 +1,13 @@
+#Comandos de solução de conflitos git
+git init
+git add 
+git add .                    = adiciona e soluciona conflitos
+git commit -m "comentário"   = commita informação pertinente a alteração.
+ 
+git clone + link             = clonar diretório do github.
+
+git remote add origin + link = adicionar readme ou arquivos ao git
+
+git push origin master       = adicionar tudo ao github
+git pull origin master       = puxa tudo do github 
+git remove -v = listar

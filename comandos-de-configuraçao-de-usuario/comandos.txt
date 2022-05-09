@@ -1,0 +1,11 @@
+#Comandos de configuração Git
+
+git config --list
+
+git config --global user.email           = adiciona email config
+
+git config --global user.name            = adiciona usuario config
+
+git config --global --unset user.name    = remove usuario
+
+git config --global --unset user.email   = remove email
